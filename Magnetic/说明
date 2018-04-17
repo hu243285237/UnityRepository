@@ -1,0 +1,3 @@
+此脚本用于模拟磁场效果，小磁针会随着磁铁旋转
+
+需要添加两个Tag，MagnetNeedleN和MagnetNeedleS，用在小磁针的N极和S极
