@@ -11,3 +11,5 @@ Function include:
 3.DontDestroyOnLoad
 
 4.MirrorReflection
+
+5.Magnetic
