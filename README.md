@@ -15,3 +15,5 @@ Function include:
 5.Magnetic
 
 6.MouseFollowVFX
+
+7.ElectricalCurrent
