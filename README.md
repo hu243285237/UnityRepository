@@ -19,3 +19,5 @@ Function include:
 7.ElectricalCurrent
 
 8.MoveAlongWithRoute
+
+9.GameTime
