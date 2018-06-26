@@ -21,3 +21,5 @@ Function include:
 8.MoveAlongWithRoute
 
 9.GameTime
+
+10.RandomSeed
