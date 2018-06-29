@@ -23,3 +23,5 @@ Function include:
 9.GameTime
 
 10.RandomSeed
+
+11.GUID Regenerator
