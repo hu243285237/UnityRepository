@@ -25,3 +25,5 @@ Function include:
 10.RandomSeed
 
 11.GUID Regenerator
+
+12.AssetBundle
