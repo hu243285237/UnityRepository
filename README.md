@@ -27,3 +27,5 @@ Function include:
 11.GUID Regenerator
 
 12.AssetBundle
+
+13.FindObjectsOfType
