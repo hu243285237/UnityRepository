@@ -29,3 +29,5 @@ Function include:
 12.AssetBundle
 
 13.FindObjectsOfType
+
+14.ChangeAudioVolume
