@@ -31,3 +31,5 @@ Function include:
 13.FindObjectsOfType
 
 14.ChangeAudioVolume
+
+15.SetCursorPos
