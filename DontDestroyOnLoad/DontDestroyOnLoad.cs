@@ -33,6 +33,7 @@ public class DontDestroyOnLoad : MonoBehaviour
             {
                 //如果已经存在，则删除重复的物体
                 Destroy(DontDestroyObjects[i]);
+                //Destory()方法在哪里
             }
         }
     }
